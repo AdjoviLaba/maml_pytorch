@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  MAML-Pytorch
 PyTorch implementation of the supervised learning experiments from the paper:
 [Model-Agnostic Meta-Learning (MAML)](https://arxiv.org/abs/1703.03400).
@@ -92,4 +92,4 @@ For 5-way 1-shot exp., it allocates nearly 3GB GPU memory.
 ```
 =======
 # maml_pytorch
->>>>>>> ee4967bdcc6b232d5f84689248c786054c55ab1f
+
